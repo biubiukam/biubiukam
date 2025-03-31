@@ -1,7 +1,15 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🔭 I’m currently working on react.
+- 🌱 I’m currently learning about react and node.
+- 🤔 I have several implementation ideas for scenarios such as data models, low code, and multi-dimensional tables。
+- 👯 I’m looking to collaborate on I’m looking to collaborate on participating in interesting open source projects.
+- 📫 How to reach me: 1479376017@qq.com
+
+  
 
 <!--
-**biubiukam/biubiukam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kampiu/kampiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
