@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about react and node.
 - 🤔 I have several implementation ideas for scenarios such as data models, low code, and multi-dimensional tables。
 - 👯 I’m looking to collaborate on I’m looking to collaborate on participating in interesting open source projects.
-- 📫 How to reach me: 1479376017@qq.com
+- 📫 How to reach me: biukam.w@gamil.com
 
   
 
