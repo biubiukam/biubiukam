@@ -1,5 +1,5 @@
+![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=biubiukam&style=flat&label=Profile%20views&color=0e75b6)
-![GitHub followers](https://img.shields.io/github/followers/biubiukam?style=flat&label=Followers&color=0e75b6)
 
 ### Hi there, I'm KAM
 
